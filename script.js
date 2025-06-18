@@ -7,4 +7,4 @@ btn.addEventListener("click", () => {
     name = textbox.value;//sets the name value of the textbox
     header.textContent = "Welcome, " + name + "!";
 
-});
+}); // this is the function that makes the change on page
