@@ -1,4 +1,4 @@
-const btn = document.getElementById ("submit");
+const btn = document.getElementById ("submit");// const is a vaiable that is not going to change
 let name = "";
 const textbox = document.getElementById ("nameinput");
 const header = document.getElementById ("h1");
